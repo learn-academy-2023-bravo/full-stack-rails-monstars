@@ -3,6 +3,6 @@
 
 <ul>
    <% @blogs.each do |value| %>
-    <li> <%= value.title %> </li> 
+    <li> <%= link_to value.title, blog_path(value) %> </li> 
     <% end %> 
 </ul>
