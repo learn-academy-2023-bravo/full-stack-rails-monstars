@@ -100,33 +100,74 @@ Branch: blog-create
 Acceptance Criteria
 
 Has a controller action for create
+
+<!-- complte -->
+
 Has a route for create
+
+<!-- complte -->
+
 Can fill out a form for a new blog post and click on a submit button that will trigger a create action
+
+<!-- complte -->
+
 Can be rerouted to the landing page when a valid blog post is created
+
+<!-- complte -->
+
 🏔 Stretch Goals
 Story 5: In order to interact with the blog post application, as a user of the application, I need to delete a new blog post.
+
+<!-- complte -->
 
 Branch: blog-delete
 
 Acceptance Criteria
 
 Has a controller action for delete
+
+<!-- complte -->
+
 Has a route for delete
+
+<!-- complte -->
+
 Can see a button on the show page to delete the blog post
+
+<!-- complte -->
+
 Can click on the button to perform a delete action
+
+<!-- complte -->
+
 Can be rerouted to the landing page when a blog post is deleted
+
+<!-- complte -->
+
 Story 6: In order to interact with the blog post application, as a user of the application, I need to see a form where I can fill out information to edit an existing blog post.
+
+<!-- complte -->
 
 Branch: blog-edit
 
 Acceptance Criteria
 
 Has a controller action for edit
+
+<!-- complte -->
+
 Has a route for edit
+
+<!-- complte -->
+
 Has a view for edit
+
 Can navigate from the show page of one blog post to the view of the edit page
+
 Can see a form to edit title and content
+
 Can see a submit button
+
 Can navigate back from the edit page to the blog post show page
 Story 7: In order to interact with the blog post application, as a user of the application, I need to update an existing blog post.
 
