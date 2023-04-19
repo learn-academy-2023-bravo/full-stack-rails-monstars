@@ -59,17 +59,40 @@ Can navigate back from the show page to the landing page
 
 Story 3: In order to interact with the blog post application, as a user of the application, I need to see a form where I can fill out information for a new blog post.
 
+<!-- complte -->
+
 Branch: blog-new
 
 Acceptance Criteria
 
 Has a controller action for new
+
+<!-- complte -->
+
 Has a route for new
+
+<!-- complte -->
+
 Has a view for new
+
+<!-- complte -->
+
 Can navigate from the landing page to the view of the new page
+
+<!-- complte -->
+
 Can see a form for title and content
+
+<!-- complte -->
+
 Can see a submit button
+
+<!-- complte -->
+
 Can navigate back from the new page to the landing page
+
+<!-- complte -->
+
 Story 4: In order to interact with the blog post application, as a user of the application, I need to create a new blog post.
 
 Branch: blog-create
