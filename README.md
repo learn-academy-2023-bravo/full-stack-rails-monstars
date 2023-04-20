@@ -95,6 +95,8 @@ Can navigate back from the new page to the landing page
 
 Story 4: In order to interact with the blog post application, as a user of the application, I need to create a new blog post.
 
+<!-- complte -->
+
 Branch: blog-create
 
 Acceptance Criteria
@@ -164,21 +166,44 @@ Has a view for edit
 
 Can navigate from the show page of one blog post to the view of the edit page
 
+<!-- complte -->
+
 Can see a form to edit title and content
+
+<!-- complte -->
 
 Can see a submit button
 
+<!-- complte -->
+
 Can navigate back from the edit page to the blog post show page
+
+<!-- complte -->
+
 Story 7: In order to interact with the blog post application, as a user of the application, I need to update an existing blog post.
+
+<!-- complte -->
 
 Branch: blog-update
 
 Acceptance Criteria
 
 Has a controller action for update
+
+<!-- complte -->
+
 Has a route for update
+
+<!-- complte -->
+
 Can fill out a form to edit an existing blog post and click on a submit button that will trigger an update action
+
+<!-- complte -->
+
 Can be rerouted to the landing page when a valid blog post is updated
+
+<!-- complte -->
+
 Story 8: In order to create a secure blog post application, as a developer of the application, I need to ensure only valid data is entered into the database.
 
 Branch: blog-validations
@@ -186,13 +211,29 @@ Branch: blog-validations
 Acceptance Criteria
 
 Ensure all blog posts have titles and content for each post (non-nil, non-blank values)
+
+<!-- complte -->
+
 Ensure all blog post titles are unique
+
+<!-- complte -->
+
 Ensure that blog post titles are at least 4 characters
+
+<!-- complte -->
+
 Ensure that blog post content is at least 10 characters
+
+<!-- complte -->
+
 Story 9: In order to enjoy the blog post application, as a user of the application, I need to see pleasant styling.
+
+<!-- complte -->
 
 Branch: blog-styles
 
 Acceptance Criteria
 
 Has pleasant styles on each page of the application
+
+<!-- complte -->

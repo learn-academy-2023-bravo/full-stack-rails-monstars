@@ -17,7 +17,7 @@ class MainController < ApplicationController
     end
 
     def update
-        @blog = Blogs.find(params[:id])
+        @blog = Blog.find(params[:id])
         @blog.update(blog_params)
         if @blog.valid?
             redirect_to blog_path
