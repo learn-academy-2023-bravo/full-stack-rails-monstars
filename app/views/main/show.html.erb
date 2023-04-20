@@ -4,3 +4,5 @@
 <h5> <%= @blog.content %> </h5> 
 
 <h5> <%= link_to 'back to home', blogs_path %></h5> 
+<h5> <%= link_to 'edit', edit_blog_path(@blog) %></h5> 
+<h5> <%= button_to 'delete blog', delete_blog_path(@blog), method: 'delete' %></h5>
